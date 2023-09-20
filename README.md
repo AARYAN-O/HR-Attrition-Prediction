@@ -43,4 +43,5 @@ Predicting employee attrition using logistic regression is a valuable project fo
 
 
 
+![image](https://github.com/AARYAN-O/HR-Attrition-Prediction/assets/95522590/fa39b161-f93d-4cee-945f-7deec0ec7b67)
 
